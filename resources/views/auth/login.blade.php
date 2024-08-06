@@ -17,7 +17,7 @@
     <link href="{{url('acp/css/app.min.css')}}" id="app-style" rel="stylesheet" type="text/css" />
     <style>
         body{
-            background-image: url(https://media-exp1.licdn.com/dms/image/C4D1BAQE91loSw4v24Q/company-background_10000/0/1526597535855?e=2147483647&v=beta&t=nnMrPco68lZfI294dwk3Utt4mCO2n15iAQ2h3ZUcs18);
+            background-image: url({{ asset('acp/images/login.jpeg') }});
             width: 100%;
             height: 100%;
             background-position: center;
